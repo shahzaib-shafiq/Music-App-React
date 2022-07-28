@@ -1,0 +1,6 @@
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install react-visibility-sensor
+npm install framer-motion
+npm install react-visibility-sensor
+npm install @mui/icons-material
