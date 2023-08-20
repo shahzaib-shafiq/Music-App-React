@@ -1,5 +1,9 @@
-# Getting Started with Create React App
 
+
+![Screenshot 2023-01-18 152616](https://github.com/shahzaibshafiq100/Music-App-React/assets/73356944/09670dfb-5818-4bab-886b-f91233c426ba)
+
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
